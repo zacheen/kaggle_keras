@@ -1,3 +1,15 @@
+# 尚未整理完成的檔案
+later/*
+
+# data 不存
+*.csv
+
+# checkpoint 不存
+*checkpoint*
+*final_model
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
